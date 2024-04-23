@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Sedan:ital@0;1&display=swap');
+
+body {
+    background-color: #ffffff;
+    font-family: "Open Sans", sans-serif;
+    font-size:20px;
+    margin-left: 30px;
+    
+}
+
+header {
+display: flex;
+justify-content:center;
+align-items:center;
+font-family: "Sedan", serif;
+}
+
+img {
+border-radius:80%;
+width:40%;
+display: block;
+margin:auto;
+
+}
+
+
+ul,
+h2,
+h1 {
+
+    font-family: "Open Sans", sans-serif;
+    margin-left: 50px;
+margin-right: 50px;
+
+    
+}
+
+
+h2,h1 {
+    font-family: "Sedan", serif;
+  text-align:Left;
+  font-weight: 500;
+  color: #685aff;
+  font-size: 30px;
+margin-left: 0;
+ 
+}
+
+h1{
+text-align: center;
+font-size:60px;
+margin-left: 10px;
+margin-right: 10px;
+
+
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
+}
+
+
+section {
+    font-size:20px;
+}
+
+a:hover {
+
+    text-decoration: underline;
+}
+
+
+
+#vinculo {
+    color: #1a1b63;
+}
+
+
+
+
+
